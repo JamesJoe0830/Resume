@@ -7,7 +7,7 @@ import './index.scss';
 
 ReactDOM.render(
     <React.StrictMode>
-        <BrowserRouter basename='/resume'>
+        <BrowserRouter basename='Resume'>
             <App />
         </BrowserRouter>
     </React.StrictMode>,
