@@ -6,7 +6,7 @@
 
 React를 통해 개발했기 때문에, Node.js의 설치를 필수로 합니다.
 
-https://lee-minhoon.github.io/ < 해당 템플릿으로 만들어진 이력서입니다.
+https://jamesjoe0830.github.io/Resume/ < 해당 템플릿으로 만들어진 이력서입니다.
 
 <hr/>
 
@@ -26,7 +26,6 @@ https://lee-minhoon.github.io/ < 해당 템플릿으로 만들어진 이력서�
 
 ### 1. 템플릿 가져오기
 
-<img src="https://user-images.githubusercontent.com/59780565/137311464-bb3a3835-69c0-4666-afb0-0af96e7c6ce2.png" />
 
 Use this template 버튼을 통해 템플릿을 자신의 원격 저장소로 복사합니다.
 
