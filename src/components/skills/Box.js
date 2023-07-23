@@ -8,13 +8,15 @@ class Box extends Component {
             const proficiency = desc.proficiency + "%";
             return (<div key={index}><p>{desc.name}</p><span><span className={skills.proficiency} style={{ '--proficiency': proficiency }}></span></span></div>)
         })
-
+        const explanation = content.explanation
         return (
             <div className={skills.box}>
                 <h4>{content.category}</h4>
                 <div className={skills.desc}>
                     {desc}
                 </div>
+                <div>{explanation}</div>
+
             </div>
         );
     }
